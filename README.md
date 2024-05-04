@@ -1,6 +1,6 @@
 # MyEcommerce_delivery
 
-#### This app is part 2/4, it is meants for the admin, There are also the Delivery, [User](https://github.com/MMN20/my-ecommerce-user-flutter-php) and Backend (PHP) parts in my Github account repositories 
+#### This app is part 2/4, it is meant for the Deliverer, There are also the [Admin](https://github.com/MMN20/my-ecommerce-admin-flutter-php), [User](https://github.com/MMN20/my-ecommerce-user-flutter-php) and Backend (PHP) parts in my Github account repositories 
 
 #### You must host the backend part (in PHP) and then link the API to this app by adding the link in the "lib/api_links.dart" file in this project.
 
